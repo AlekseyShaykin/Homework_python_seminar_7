@@ -1,0 +1,5 @@
+Ivan;Petrov;collegue;+79205558888
+Marry;Jason;boss;+79200000001
+Garry;Mayson;neighborow;+79856035807
+Mike;Broslovskiy;collegue;+785416545414
+Adrey;Simonov;friend;+78451255465
